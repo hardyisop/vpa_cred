@@ -11,3 +11,17 @@
     "Subscribed": "Nik True"
   }
 ]
+
+[
+  {
+    "Name": "helper"
+  },
+  {
+    "Month_End": "17 May",
+    "Month_start": "10 May"
+    "Amount": 2500
+  },
+  {
+    "Subscribed": "Helper True"
+  }
+]
